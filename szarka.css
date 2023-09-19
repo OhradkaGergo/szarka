@@ -1,0 +1,54 @@
+body {
+    background-color: #F0F8FF;
+    text-decoration: darkblue;
+}
+
+hr {
+    width: 70%;
+    justify-content: center;
+}
+
+h2 {
+    color: crimson;
+}
+
+.kepszel {
+    width: 230px;
+    height: 153px;
+    border: 1px solid black;
+}
+
+.kepszel2 {
+    width: 230px;
+    height: 153px;
+    float: right;
+    border: 1px solid black;
+}
+
+a {
+    color: crimson;
+}
+
+.kozeptabla {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cimkep {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    padding: 6px;
+}
+
+.hosszu {
+    width: 240px;
+}
+
+.hh2 {
+    background-color: crimson;
+    color: aliceblue;
+}
